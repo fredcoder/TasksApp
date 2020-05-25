@@ -21,7 +21,7 @@
     </feature>
     <name>Tasks</name>
     <description>
-        A sample Apache Cordova application that responds to the deviceready event.
+        A to-do list application that consumes an ASP.NET Core API.
     </description>
     <author email="dev@cordova.apache.org" href="http://cordova.io">
         Apache Cordova Team
@@ -35,6 +35,7 @@
     <allow-intent href="sms:*" />
     <allow-intent href="mailto:*" />
     <allow-intent href="geo:*" />
+    <icon src="www\img\logo.png" />
     <allow-intent href="itms:*" />
     <allow-intent href="itms-apps:*" />
     <preference name="AllowInlineMediaPlayback" value="false" />
